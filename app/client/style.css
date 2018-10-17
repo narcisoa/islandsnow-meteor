@@ -1,0 +1,29 @@
+.ui.menu.borderless.topmenu {
+  background-color: #f5f5f5;
+  border-style: none;
+  box-shadow: none;
+}
+
+.ui.menu.borderless.middlemenu {
+  border-style: none;
+  box-shadow: none;
+}
+
+.grey-background {
+  background-color: #292929;
+  color: #ffffff;
+  margin: 0px;
+  padding: 50px;
+}
+
+.logo {
+  margin: 20px;
+}
+
+.topmenu {
+  color: black;
+}
+
+div.ui.divider {
+  color: white;
+}
